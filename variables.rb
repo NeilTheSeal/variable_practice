@@ -12,3 +12,11 @@ float_3 = 0.5
 
 bool_1 = true
 bool_2 = false
+
+string_1 = "goodbye world"
+string_2 = "this is fun"
+string_3 = "goodie!"
+
+puts string_1
+puts integer_2
+puts bool_1
